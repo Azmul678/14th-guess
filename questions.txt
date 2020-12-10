@@ -1,0 +1,36 @@
+Sweat & water-resistant :;
+IP68;
+IP55;
+IP67;
+IP65;
+IP55;
+|
+Bluetooth range :;
+Up to 33ft;
+Up to 43ft;
+Up to 53ft;
+Up to 63ft;
+Up to 33ft;
+|
+Bluetooth Version :;
+4.2;
+5.0;
+5.2;
+5.1;
+5.0;
+|
+Weight :;
+18g;
+38g;
+48g;
+28g;
+28g;
+|
+Battery life :;
+Up to 40 hours;
+Up to 10 hours;
+Up to 30 hours;
+Up to 20 hours;
+Up to 20 hours;
+|
+
